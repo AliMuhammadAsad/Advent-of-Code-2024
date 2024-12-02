@@ -9,3 +9,4 @@ Through this iteration, I also aim to learn and practice other programming langu
 | Day | Part 1 | Part 2 | Language |
 | --- | ------ | ------ | -------- |
 | 1 | :star: | :star: | Python |
+| 2 | :star: | :star: | Python |
